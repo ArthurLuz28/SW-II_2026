@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Teclado",
+        "preco": 100,
+        "quantidade": 5
+    },
+    {
+        "nome": "Monitor",
+        "preco": 900,
+        "quantidade": 3
+    },
+    {
+        "nome": "Headset",
+        "preco": 200,
+        "quantidade": 7
+    }
+]
